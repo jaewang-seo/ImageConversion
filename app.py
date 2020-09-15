@@ -1,23 +1,5 @@
 import process as pc
 
-#명환 선배님 코드 
-###########################################
-#json 분할
-
-# testJson = pc.ProcessJSON()
-
-# testJson.jsonFileSplit('./Json','Cheonan.json') # 
-# testJson.jsonFileSplitSave('./JsonSplit')
-# jsonSplits = testJson.getJsonSplit()
-
-# testJson.valueClear()
-
-# testJson = pc.ProcessJSON()
-# testJson.jsonFileMerge('./JsonSplit')
-# testJson.jsonFileMergeSave('./JsonMerge', 'cocojson.json')  #위치,이름
-# jsonMerges = testJson.getJsonMerge()
-
-
 #클래스
 koo = pc.IMAGECONVERSION()    
 
